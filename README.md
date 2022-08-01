@@ -7,7 +7,9 @@ that involve delay time across its supply chain.
 
 Install all required libraries 
 
+```
 $ pip install -r requirements.txt
+```
 
 If on Mac, try 'pip3'
 
